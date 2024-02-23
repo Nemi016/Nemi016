@@ -17,17 +17,17 @@ Hi 👋, I'm G. Nemi Chakrawarty !
 
 # 📜 My Certifications 
 
- [Data Analysis](https://github.com/mrankitgupta) & [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
+ [Data Analysis] & [Data Visualization with Python] - by IBM
 
- [Pandas](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) - by Kaggle, [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning
+ [Pandas], [Numpy] & [Matplotlib] - by Great Learning
 
- [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
+ [Databases and SQL for Data Science with Python] - by IBM
 
- [Statistics for Data Science with Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
+ [Statistics for Data Science with Python] - by IBM
 
- [Data Visualization with Tableau](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI3OTUiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl8zMzkyNjI4XzE2NTAxMTE0NzcucG5nIiwidXNlcm5hbWUiOiJBbmtpdCBHdXB0YSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion) - by Simplilearn
+ [Data Visualization with Tableau] - by Simplilearn
 
- [Data Visualization with Advanced Excel](https://www.coursera.org/account/accomplishments/certificate/CY9V466RB36R) - by PWC
+ [Data Visualization with Advanced Excel] - by PWC
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Nemi016&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
