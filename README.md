@@ -17,7 +17,7 @@ Hi 👋, I'm G. Nemi Chakrawarty !
 
 # 📜 My Certifications 
 
- [Data Analysis] & [Data Visualization with Python] - by IBM
+ [Certified Data Science Professional](https://media.licdn.com/dms/document/media/D561FAQHEeHbiKQ20jg/feedshare-document-pdf-analyzed/0/1707722244437?e=1709769600&v=beta&t=_Y7KG72lrZMCoIhmq1fZJ8vnIVYrJSa-pH5mSqzVq0E) - by OdinSchool
 
  [Pandas], [Numpy] & [Matplotlib] - by Great Learning
 
