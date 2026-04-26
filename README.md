@@ -1,37 +1,15 @@
-Hi 👋, I'm G. Nemi Chakrawarty !
----
-<br>📈 Data Enthusiast passionate about the world of data analysis.
-<br>🌱 I’m currently working on Data Analytics, Python, Machine Learning & Statistics
-<br>🛩️ Exploring Data Science, NLP, Deep Learning 
-<br>💬 Ask me about ``` var topics = [ "Python", "SQL", "Statistics", "Power BI", "Data Analytics" ] ```
-<br><br>🔭 Join the thrilling journey where data transforms into insights,<br> and let's illuminate the path forward together!
-
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-# 📜 My Certifications 
-
- [Certified Data Science Professional](https://media.licdn.com/dms/document/media/D561FAQHEeHbiKQ20jg/feedshare-document-pdf-analyzed/0/1707722244437?e=1709769600&v=beta&t=_Y7KG72lrZMCoIhmq1fZJ8vnIVYrJSa-pH5mSqzVq0E) - by OdinSchool
+# 💫 About Me:
+🚀 About Me<br><br>Hi 👋, I'm G. Nemi Chakrawarty !<br><br>📈 Data Enthusiast passionate about the world of data Engineering.<br>🌱 I’m currently working on Data Engineering, ETL, Data warehousing, Data Piplines<br>💬 Ask me about var topics = [ "Data warehousing", "SQL", "python", "snowflake", "AWS", "ETL" "Data Piplines" ]<br><br>🔭 Join the thrilling journey where raw data transforms into proper structured data ready to be used in for upscaling the business decisions and let's illuminate the path forward together!
 
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Nemi016&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nemi016&theme=tokyonight&hide_border=true)<br/>
-
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nemi016&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=nemi016&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nemi016&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nemi016&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Nemi016&icon=0&color=2)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
