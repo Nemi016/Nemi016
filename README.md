@@ -1,5 +1,9 @@
 # 💫 About Me:
-🚀 About Me<br><br>Hi 👋, I'm G. Nemi Chakrawarty !<br><br>📈 Data Enthusiast passionate about the world of data Engineering.<br>🌱 I’m currently working on Data Engineering, ETL, Data warehousing, Data Piplines<br>💬 Ask me about var topics = [ "Data warehousing", "SQL", "python", "snowflake", "Databricks", "AWS", "ETL", "Data Piplines" ]<br><br>🔭 Join the thrilling journey where raw data transforms into proper structured data ready to be used in for upscaling the business decisions and let's illuminate the path forward together!
+🚀 About Me<br><br>Hi 👋, I'm G. Nemi Chakrawarty !
+<br><br>📈 Data Enthusiast passionate about the world of data Engineering.
+<br>🌱 I’m currently working on AWS cloud based Data Engineering self learn project { exierted to explore into Azure and GCP Cloud Platforms as well }
+<br>💬 Ask me about var topics = [ "SQL", "python","Databricks", "AWS", "ETL", "Data Piplines", "Data warehousing" ]
+<br><br>🔭 Join the thrilling journey where raw data transforms into proper structured data ready to be used in for upscaling the business decisions and let's illuminate the path forward together!
 
 
 # 💻 Tech Stack:
